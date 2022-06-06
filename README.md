@@ -1,4 +1,4 @@
-# E-commerce-App
+# Imtiaz-App
 Imtiaz App, open source mobile app for Shopping . Built with Kotlin. and backend based on firebase and mvvm-architecture
 ScreenShot of Login Activity
 ![LoginActivity](https://user-images.githubusercontent.com/106967007/172154156-f9dc7838-0693-418c-a929-a02dccaeca5b.png)
